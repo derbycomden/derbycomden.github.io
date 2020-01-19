@@ -1,4 +1,32 @@
 title: DerbyCom - Denver
-description: Our goal is to forge alliances with existing chapters, conferences, and communities as well as build and forge new ones where needed in order to drive the same type of conference, community, and difference DerbyCon created.
-google_analytics:
-theme: jekyll-theme-hacker
+description: "Our goal is to forge alliances with existing chapters, conferences, and communities as well as build and forge new ones where needed in order to drive the same type of conference, community, and difference DerbyCon created."
+author:
+  name: "admin"
+  email: "derbycomden@gmail.com"
+  url: "https://derbycomdeb.github.io"
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "DerbyComDen"
+year : "2020"
