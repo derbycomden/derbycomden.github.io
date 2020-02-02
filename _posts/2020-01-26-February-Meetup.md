@@ -5,7 +5,7 @@ published: true
 
 Hello Denver! We're excited to bring you our first DerbyCommunity - Denver meet-up for 2020!
 
-###[Eventbrite RSVP](https://www.eventbrite.com/e/derbycom-denver-tickets-92506384085)
+[Eventbrite RSVP](https://www.eventbrite.com/e/derbycom-denver-tickets-92506384085)
 
 ![Feb Poster](../static/img/feb_poster.png "Feb Poster")
 
