@@ -7,7 +7,7 @@ title: About
 
 ### Purpose
 
-The Cyber Security community should be truly open and welcoming for everyone regardless of gender, sexual orientation, disability, ethnicity, or religion. This code of conduct outlines our expectations for participant behavior, as well as the consequences for unacceptable behavior. We invite all sponsors, speakers, attendees, media, exhibitors and other participants to help us realize a safe and positive conference experience for everyone. All determinations of appropriate or inappropriate behavior are in AtlSecCon’s sole discretion and the decision(s) of the AtlSecCon representatives on-site will be final.
+The Cyber Security community should be truly open and welcoming for everyone regardless of gender, sexual orientation, disability, ethnicity, or religion. This code of conduct outlines our expectations for participant behavior, as well as the consequences for unacceptable behavior. We invite all sponsors, speakers, attendees, media, exhibitors and other participants to help us realize a safe and positive conference experience for everyone. All determinations of appropriate or inappropriate behavior are in DerbyComDen’s sole discretion and the decision(s) of the DerbyComDen representatives on-site will be final.
 
  
 ### Expected behavior includes, but is not limited to:
@@ -27,7 +27,7 @@ The Cyber Security community should be truly open and welcoming for everyone reg
 
 * Wearing clothing that is not suitable for a professional work environment, that is provocative, or otherwise potentially offensive.
 
-* Physical, written, verbal or other abuse, intimidation, threats, annoyance, harassment, stalking, pushing, shoving or use of any physical force whatsoever against any person, which in any way creates a disturbance that is disruptive or dangerous, or creates apprehension in a person, as determined by AtlSecCon, show management, and the Venue in their sole discretion.
+* Physical, written, verbal or other abuse, intimidation, threats, annoyance, harassment, stalking, pushing, shoving or use of any physical force whatsoever against any person, which in any way creates a disturbance that is disruptive or dangerous, or creates apprehension in a person, as determined by DerbyComDen, show management, and the Venue in their sole discretion.
 
 * Boisterous, lewd or offensive behavior or language, including but not limited to using sexually explicit or offensive language, materials or conduct, or any language, behavior or content that contains profanity, obscene gestures, or racial, religious or ethnic slurs.
 
@@ -35,7 +35,7 @@ The Cyber Security community should be truly open and welcoming for everyone reg
 
 * The Smoke-free Places Act (Nova Scotia) applies to the use of combustible cannabis in public places. Please use responsibly.
 
-* Possessing any illegal substance or other illegal drugs. AtlSecCon does not tolerate the use or abuse of illegal substances anywhere in the Venue.
+* Possessing any illegal substance or other illegal drugs. DerbyComDen does not tolerate the use or abuse of illegal substances anywhere in the Venue.
 
 * Failure to obey any rules or regulations of the Venue.
 
@@ -47,7 +47,7 @@ Unacceptable behavior will not be tolerated whether by other attendees, media, s
  
 ### What to do if you witness or are subjected to unacceptable behavior
 
-If you are subjected to unacceptable behavior, notice that someone else is being subjected to unacceptable behavior, or have any other concerns, please notify event staff, Venue staff or an AtlSecCon Board Member as soon as possible. All reports will remain completely confidential.
+If you are subjected to unacceptable behavior, notice that someone else is being subjected to unacceptable behavior, or have any other concerns, please notify event staff, Venue staff or an DerbyComDen Board Member as soon as possible. All reports will remain completely confidential.
 
 Event Staff will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. You can report unacceptable behavior to any member of staff. Staff can be found in the Show Office onsite or you may email one of the contacts below.
 
